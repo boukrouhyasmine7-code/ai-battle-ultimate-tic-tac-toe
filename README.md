@@ -45,6 +45,6 @@ The interface runs in an efficient, clean text-mode and supports three deploymen
 2. **AI vs AI:** Autonomous self-play simulation used to tune heuristic weights and measure performance.
 3. **AI vs External AI (Relay Mode):** A specialized intermediary mode engineered for live tournament settings, allowing manual entry and synchronization of opposing moves across separate machines.
 
-## 🛠️ Project Stack & Setup
+##  Project Stack & Setup
 * **Language:** Python 3.x (Built using only the standard library to ensure zero-dependency Google Colab compliance).
 * **Core Concepts:** Negamax Search, Alpha-Beta Pruning, Iterative Deepening, Zobrist Hashing, Anytime Algorithm design.
